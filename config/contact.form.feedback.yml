@@ -1,0 +1,14 @@
+uuid: f6555f5b-51ff-43a1-8160-d15241ad86a5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - evan@cabepow.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
